@@ -1,6 +1,6 @@
 import ReactDOM from 'react-dom';
 
-import { ThemeProvider } from '@mui/styles';
+import { ThemeProvider } from '@mui/material';
 import { ModalProvider } from 'react-declarative';
 
 import AlertProvider from './components/AlertProvider';
